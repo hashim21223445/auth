@@ -28,7 +28,7 @@
     "@google-github-actions/actions-utils": "^0.7.4"
   },
   "devDependencies": {
-    "@types/node": "^20.12.8",
+    "@types/node": "^20.14.10",
     "@typescript-eslint/eslint-plugin": "^7.8.0",
     "@typescript-eslint/parser": "^7.8.0",
     "@vercel/ncc": "^0.38.1",
